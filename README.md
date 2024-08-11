@@ -1,9 +1,5 @@
 # -Product-and-Business-Performance-Evaluation-Based-on-Customer-Reviews
-Here's a README draft based on the provided research report:
 
----
-
-# ASDA Business Performance Evaluation Based on Customer Reviews
 
 ## Project Overview
 
